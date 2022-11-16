@@ -8,3 +8,4 @@ Few things about me:
 - ⚡ Fun fact: I love pizza!
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SunbakedCoast&theme=dark&border_radius=10)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
