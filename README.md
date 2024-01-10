@@ -4,7 +4,7 @@ Few things about me:
 
 - I'm a Software Engineer
 - 👯‍♀️ I'm looking to collaborate on Flutter Projects
-- 🌱 I’m currently learning Python!
+- 🌱 I’m currently learning JavaScript!
 - ⚡ Fun fact: I love pizza!
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=SunbakedCoast&theme=dark&border_radius=10)](https://git.io/streak-stats)
